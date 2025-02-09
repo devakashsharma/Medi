@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696541738298",
+    "project_id": "medi-5b7b0",
+    "storage_bucket": "medi-5b7b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696541738298:android:9f31b1f7eee0e7f0458c03",
+        "android_client_info": {
+          "package_name": "shinobi.medi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbRE4_K-3DgHhxYG1Kry3a599Hc4fUqZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
